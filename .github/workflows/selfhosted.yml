@@ -19,6 +19,7 @@ on:
           - 'LineageOS 20.0'
           - 'LineageOS 21.0'
           - 'LineageOS 22.1'
+          - 'crDroid 11.4'
           - 'ArrowOS 13.1'
           - 'DerpFest 14.0'
           - 'CipherOS 14'
