@@ -161,6 +161,11 @@ jobs:
           export PROJECTFOLDER="/crave-devspaces/Lineage22"
           export PROJECTID="93"
           export REPO_INIT="repo init -u https://github.com/accupara/los22.git -b lineage-22.1 --git-lfs --depth=1"
+          ;;
+        "crDroid 11.4")
+          export PROJECTFOLDER="/crave-devspaces/crDroid11.4"
+          export PROJECTID="93"
+          export REPO_INIT="repo init -u https://github.com/crdroidandroid/android.git -b 15.0 --git-lfs --depth=1"
         ;;
         "LineageOS 20.0")
           export PROJECTFOLDER="/crave-devspaces/Lineage20"
